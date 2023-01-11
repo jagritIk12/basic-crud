@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3",
+    "nodemon": "^2.0.20"
+  },
+  "name": "curdenv",
+  "version": "1.0.0",
+  "description": "\"THIS IS CURDENV\"",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
